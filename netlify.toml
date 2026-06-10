@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+# The Netlify Next.js Runtime is automatically detected and enabled.
+# No additional plugins are required for Next.js App Router support.
