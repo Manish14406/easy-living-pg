@@ -7,6 +7,7 @@ const stats = [
   { number: "300+", label: "Residents" },
   { number: "5★", label: "Google Rating" },
   { number: "24/7", label: "Security" },
+  { number: "300m", label: "From Reva" },
 ];
 
 export default function About() {
